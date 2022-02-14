@@ -61,6 +61,8 @@ namespace HrApp
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
             });
+
+            //samir is slecht in programmeren kan beter terug naar zn oude job gaan
         }
     }
 }
